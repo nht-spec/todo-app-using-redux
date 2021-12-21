@@ -1,0 +1,13 @@
+.input-field {
+	border: unset;
+	color: #828282;
+	font-size: 14px;
+	line-height: 17px;
+	width: 90%;
+	height: 100%;
+	font-family: 'Montserrat';
+}
+textarea:focus,
+.input-field:focus {
+	outline: none;
+}

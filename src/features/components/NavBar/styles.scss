@@ -1,0 +1,28 @@
+.nav-bar-control {
+	justify-content: space-around;
+	margin-bottom: 19px;
+	position: relative;
+	.mode-option {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		cursor: pointer;
+	}
+}
+
+.border {
+	border: 1px solid black;
+}
+
+.border-active {
+	position: absolute;
+	top: 33px;
+	border-bottom: 4px solid #2f80ed;
+	width: 89px;
+	height: 4px;
+	border-radius: 4px 4px 0px 0px;
+}
+
+.nav-bar-control > li {
+	list-style-type: none;
+}

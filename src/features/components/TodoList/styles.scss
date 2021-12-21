@@ -1,0 +1,19 @@
+.btn-del {
+	float: right;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: #eb5757;
+	font-size: 12px;
+	cursor: pointer;
+	border-radius: 4px;
+	width: 124px;
+	height: 40px;
+	line-height: 15px;
+	border: unset;
+	color: #ffffff;
+	.material-icons-round {
+		padding-right: 5.5px;
+		font-size: 13px;
+	}
+}

@@ -1,0 +1,17 @@
+.todo-Feature {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	width: 608px;
+	margin-top: 32px;
+	margin-left: auto;
+	margin-right: auto;
+	.title {
+		font-family: Raleway;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 36px;
+		line-height: 42px;
+		margin-bottom: 57px;
+	}
+}

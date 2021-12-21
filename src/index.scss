@@ -1,0 +1,45 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Montserrat';
+}
+
+.fw-700 {
+	font-weight: 700;
+}
+
+.fw-600 {
+	font-weight: 600;
+}
+
+.fw-500 {
+	font-weight: 500;
+}
+
+.fw-400 {
+	font-weight: 400;
+}
+
+.color-dodgerblue {
+	color: #2f80ed;
+}
+
+.color-darkslategray {
+	color: '#333333';
+}
+.d-flex {
+	display: flex;
+}
+.d-flex-center {
+	justify-content: center;
+}
+
+.modeText {
+	font-weight: 600;
+	font-size: 14px;
+	line-height: 17px;
+}
